@@ -1,0 +1,6 @@
+tenure_months,num_referrals,has_internet_service,paperless_billing,contract_type,total_long_distance_fee,total_monthly_fee,total_charges_quarter,num_dependents
+10,0,0,0,Month-to-Month,20,50,100,0
+3,3,1,1,Month-to-Month,20,50,100,0
+24,0,1,1,Two Year,0,40,80,2
+11,0,1,1,One Year,50,60,200,1
+1,0,0,1,One Year,0,20,50,0
